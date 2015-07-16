@@ -1,6 +1,6 @@
 Spring Embedded Database
 ===============================
-Template for a Spring 4 MVC + Embedded Database, using Maven build tool.
+Template for a Spring 4 MVC + Embedded Database examples, using HSQLDB, H2 and Derby.
 
 ###1. Technologies used
 * Maven 3.0
@@ -22,4 +22,4 @@ Access ```http://localhost:8080/spring-mvc-db/```
 3. Done.
 
 ###4. Project Demo
-Please refer to this article [Spring MVC form handling example](http://www.mkyong.com/spring/spring-embedded-database-examples/)
+Please refer to this article [Spring Embedded Database  examples](http://www.mkyong.com/spring/spring-embedded-database-examples/)
